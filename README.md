@@ -5,6 +5,7 @@
 **Projeto de compras** finalizado, com auxílio do curso de _**lógica de programação com JavaScript**_ na plataforma **Alura**, disponiblizado pelo **Geração Caldeira**.
 
 
+
   📑 Tarefas: 
   
   - [x] Soluções dos problemas do web site.
